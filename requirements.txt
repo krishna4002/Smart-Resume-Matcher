@@ -1,0 +1,14 @@
+streamlit
+spacy
+sentence-transformers
+scikit-learn
+PyMuPDF
+plotly
+neo4j
+python-docx
+python-dotenv
+requests
+uvicorn
+fastapi
+python-multipart
+#python -m spacy download en_core_web_sm
