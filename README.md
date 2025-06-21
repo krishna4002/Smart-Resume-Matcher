@@ -51,7 +51,7 @@ resume_matcher/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/smart-resume-matcher.git
+git clone https://github.com/krishna4002/smart-resume-matcher.git
 cd smart-resume-matcher
 ```
 
